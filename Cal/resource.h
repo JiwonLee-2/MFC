@@ -17,8 +17,16 @@
 #define IDC_7                           1007
 #define IDC_8                           1008
 #define IDC_9                           1009
-#define IDC_10                          1010
 #define IDC_0                           1010
+#define IDC_PLUS                        1011
+#define IDC_MINUS                       1012
+#define IDC_MUL                         1013
+#define IDC_DIV                         1014
+#define IDC_Back                        1015
+#define IDC_Equal                       1016
+#define IDC_CLEAR                       1017
+#define IDC_CLEAR2                      1018
+#define IDC_DOT                         1018
 
 // Next default values for new objects
 // 
@@ -26,7 +34,7 @@
 #ifndef APSTUDIO_READONLY_SYMBOLS
 #define _APS_NEXT_RESOURCE_VALUE        130
 #define _APS_NEXT_COMMAND_VALUE         32771
-#define _APS_NEXT_CONTROL_VALUE         1007
+#define _APS_NEXT_CONTROL_VALUE         1013
 #define _APS_NEXT_SYMED_VALUE           101
 #endif
 #endif
